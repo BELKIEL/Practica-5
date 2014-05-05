@@ -1,0 +1,16 @@
+I:\Programación III\Proyectos\PRACTICA 5\obj\Debug\ResolveAssemblyReference.cache
+I:\Programación III\Proyectos\PRACTICA 5\obj\Debug\PRACTICA_5.MainForm.resources
+I:\Programación III\Proyectos\PRACTICA 5\obj\Debug\GenerateResource.read.1.tlog
+I:\Programación III\Proyectos\PRACTICA 5\obj\Debug\GenerateResource.write.1.tlog
+I:\Programación III\Proyectos\PRACTICA 5\bin\Debug\PRACTICA 5.exe
+I:\Programación III\Proyectos\PRACTICA 5\bin\Debug\PRACTICA 5.pdb
+I:\Programación III\Proyectos\PRACTICA 5\obj\Debug\PRACTICA 5.exe
+I:\Programación III\Proyectos\PRACTICA 5\obj\Debug\PRACTICA 5.pdb
+I:\Programación III\Proyectos\Practica-5\Practica 5\bin\Debug\PRACTICA 5.exe
+I:\Programación III\Proyectos\Practica-5\Practica 5\bin\Debug\PRACTICA 5.pdb
+I:\Programación III\Proyectos\Practica-5\Practica 5\obj\Debug\ResolveAssemblyReference.cache
+I:\Programación III\Proyectos\Practica-5\Practica 5\obj\Debug\PRACTICA_5.MainForm.resources
+I:\Programación III\Proyectos\Practica-5\Practica 5\obj\Debug\GenerateResource.read.1.tlog
+I:\Programación III\Proyectos\Practica-5\Practica 5\obj\Debug\GenerateResource.write.1.tlog
+I:\Programación III\Proyectos\Practica-5\Practica 5\obj\Debug\PRACTICA 5.exe
+I:\Programación III\Proyectos\Practica-5\Practica 5\obj\Debug\PRACTICA 5.pdb
